@@ -11,9 +11,9 @@ Dataset information- There were 4 seperate files provided
 • Test dataset
 
 Data Merging-
-• The customer transactions datasetis merged with list of foreclosed customer dataseton AGREEMENTID and
+• The customer transactions dataset is merged with list of foreclosed customer dataset on AGREEMENTID and
 similarly with test dataset.
-• Bothdatasets are then merged with Customer demographics dataset on CUSTOMERID.
-• The resulted train dataset and test dataset consists of 19730 and 13163 instances respectively with 50 attributes.
-• The two datasets were concat and resulted to 32893 and 50 attributes.
+• Both datasets are then merged with Customer demographics dataset on CUSTOMERID.
+• The resulted train dataset and test dataset consisted  19730 and 13163 instances respectively with 50 attributes.
+• The two datasets were concatenated and resulted in 32893 and 50 attributes.
  
